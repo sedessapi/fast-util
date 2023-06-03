@@ -1,0 +1,4 @@
+github.com/hyperledger/fabric-gateway v1.2.2 h1:8Al1U2ciEtkiZ21701qbf9oOfd+4Y0inQUhTx1bDRMM=
+github.com/hyperledger/fabric-gateway v1.2.2/go.mod h1:Ziu7mVxlE2MCwmH0S8zK3WylwEMq1fVBgf+M8OJglQc=
+github.com/miekg/pkcs11 v1.1.1 h1:Ugu9pdy6vAYku5DEpVWVFPYnzV+bxB+iRdbuFSu7TvU=
+github.com/miekg/pkcs11 v1.1.1/go.mod h1:XsNlhZGX73bx86s2hdc/FuaLm2CPZJemRLMA+WTFxgs=
